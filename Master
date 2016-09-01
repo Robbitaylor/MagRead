@@ -1,0 +1,5 @@
+git clone https://github.com/ieatlint/MagRead.git
+cd MagRead
+qmake MagRead.pro
+make
+open -a MagRead.app
